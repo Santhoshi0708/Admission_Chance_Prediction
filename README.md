@@ -38,16 +38,15 @@ Our Streamlit web application predicts the admission chances for prospective stu
 - scikit-learn
 
 ## Included Files
-- `app.py`: Streamlit application code.
-- `Admission_Chance.csv`: Historical admission data in CSV format.
-- `Admission_Chance_Prediction.ipynb`: Jupyter Notebook with code and explanations for the application.
+- `App.py`: Streamlit application code.
+- `Dataset.csv`: Historical admission data in CSV format.
 
 ## Acknowledgments
 - The dataset used is for demonstration purposes only.
 - This app is a simplified example and may need enhancements for production.
   
 ## Preview
-Check out the app [here]().
+Check out the app [here](https://admissionchanceprediction-santu0708.streamlit.app/).
 
 ## Connect
 Reach out on [LinkedIn](https://www.linkedin.com/in/kothapalli-santhoshi-368951254/). Your feedback is valuable! Email us at santhu2002.kothapalli@gmail.com.
